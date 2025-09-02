@@ -1,3 +1,5 @@
 #!/usr/bin/python3
-str = "Holberton School"
-# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
+str = "Holberton
+
+print(str * 3)
+print(str[:9])
