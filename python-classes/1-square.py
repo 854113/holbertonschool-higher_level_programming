@@ -7,7 +7,7 @@ class Square:
 
     def __init__(self, size):
         """Inicializa un nuevo cuadrado.
-        
+
         Args:
             size: tamaño del cuadrado (privado).
         """
