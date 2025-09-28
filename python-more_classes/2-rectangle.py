@@ -1,13 +1,9 @@
 #!/usr/bin/python3
-"""
-This script defines a class called Rectangle.
-"""
+"""This script defines a class called Rectangle."""
 
 
 class Rectangle:
-    """
-    Represents a rectangle.
-    """
+    """Represents a rectangle."""
     def __init__(self, width=0, height=0):
         self.width = width
         self.height = height
